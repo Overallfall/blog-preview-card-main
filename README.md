@@ -30,11 +30,15 @@ Les utilisateurs doivent pouvoir :
 
 ### Captures d'écran
 
-````carousel
+<div align="center">
+  
+#### Version Desktop
 ![Version Desktop](./Capture%20d'ecran/Desktop%20-%20version.png)
-<!-- slide -->
+
+#### Version Mobile
 ![Version Mobile](./Capture%20d'ecran/Mobile%20-%20version.png)
-````
+
+</div>
 
 ## 🚀 Mon processus
 
