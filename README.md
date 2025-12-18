@@ -31,9 +31,9 @@ Les utilisateurs doivent pouvoir :
 ### Captures d'écran
 
 ````carousel
-![Version Desktop](./Capture d'ecran/Desktop - version.png)
+![Version Desktop](./Capture%20d'ecran/Desktop%20-%20version.png)
 <!-- slide -->
-![Version Mobile](./Capture d'ecran/Mobile - version.png)
+![Version Mobile](./Capture%20d'ecran/Mobile%20-%20version.png)
 ````
 
 ## 🚀 Mon processus
